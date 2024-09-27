@@ -1,385 +1,385 @@
 [[libstdcxx]]
 arch = "x86_64"
-git-tree-sha1 = "9458d0a9b355ede6670795fdfa9274a1e7b06983"
+git-tree-sha1 = "e5309db0fd5fe8f284e8512618d8414d4fad440b"
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "ce7fe471a382e056321991b4da3b7dd65e904f1ef821f74cdbd45987505275ca"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-v9.1.0-x86_64-linux-gnu.tar.gz"
+    sha256 = "a48d4df1d78d545279aa065ff8b7607281ca0640b3659b537cd219668107e754"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-v9.4.0-x86_64-linux-gnu.tar.gz"
 [[libstdcxx]]
 arch = "i686"
-git-tree-sha1 = "8e47165ce4030c95cc01967e96e804e413bf0be9"
+git-tree-sha1 = "0a74fe002232465430f05d477321d76bbfcbc7c6"
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "aa60d9b94d76df992d82000e3a4ed7869d85818896dcc723bfdf3b6eefe8f96f"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-v9.1.0-i686-linux-gnu.tar.gz"
+    sha256 = "a2f8cdcff051b117ab91fb324b01d1122d75982b0d8c2fed7c6380653a4e8f86"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-v9.4.0-i686-linux-gnu.tar.gz"
 [[libstdcxx]]
 arch = "aarch64"
-git-tree-sha1 = "dac1ba91f1ba7a06867f6719de2d46ec7b285179"
+git-tree-sha1 = "c4a6fb0e9b745c5a4ecaf3963e079f65fa150880"
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "70e2140d1f6088f55b7924fe383cf50479c540104c39935ca09acf993fd563ef"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-v9.1.0-aarch64-linux-gnu.tar.gz"
+    sha256 = "6c0adf6096b907a3f69cb8abd5d846defafaaa2957d7d91df4775c30b0016fb5"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-v9.4.0-aarch64-linux-gnu.tar.gz"
 [[libstdcxx]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "c1a72833c495e32a60d9740c4d8135fc2724ff82"
+git-tree-sha1 = "a34c37cd0fc09f2fbe9046e47992db42dd40d7ae"
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "47f5dbab5824cc5fb1f7cd6c82d8af96e304f127b9f5c99eec8606dd5744bb06"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-v9.1.0-armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "0d5a8673197d32bbb605ad858f7723953bb14db961477328998f1c70edbb8b99"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-v9.4.0-armv6l-linux-gnueabihf.tar.gz"
 [[libstdcxx]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "b54de303f558582a749f97de56557fa092a04ffd"
+git-tree-sha1 = "fb5372a67d0e241e9ef14f2ed06809e2a95d6166"
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "99428c3c56f2747c9f66da43ef3b9848add022a8fdba06d5c5e7fe441c07409a"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-v9.1.0-armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "806f1e88824c9c50dbf781f96eb4357adeb853db75d2137adb58c3d364792626"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-v9.4.0-armv7l-linux-gnueabihf.tar.gz"
 [[libstdcxx]]
 arch = "powerpc64le"
-git-tree-sha1 = "a3b2505ad2a6cb3e37a8d4318d4679ff5f01ddd4"
+git-tree-sha1 = "fe72ca4ab34499a0bb4562d2b562eab54afa911e"
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "e148b93cf5e5fe0032e9155dc5fcee54a7edc1d0e539eaa70a771f34a1f64b46"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-v9.1.0-powerpc64le-linux-gnu.tar.gz"
+    sha256 = "ff4e3f93b11e9d83eef6c7e13691141c43db3ade8c25026250aa4c6146114ddf"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-v9.4.0-powerpc64le-linux-gnu.tar.gz"
 [[libstdcxx]]
 arch = "x86_64"
-git-tree-sha1 = "8f04804f9118d5fbdeb217cda4f26a110c0de251"
+git-tree-sha1 = "04e29a2c5b940975e487f5a76b5f4a70398b6090"
 libc = "musl"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "4b019c7999024f9d4f71c992dc0591aacf5a5032d814669a31b7801da8a06926"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-v9.1.0-x86_64-linux-musl.tar.gz"
+    sha256 = "300902cbdebb36e38566d62e2757b0493c58a73c1812d36354235e94b763805c"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-v9.4.0-x86_64-linux-musl.tar.gz"
 [[libstdcxx]]
 arch = "i686"
-git-tree-sha1 = "4fb71fdfde1655a454841174b26b6c4042ff817e"
+git-tree-sha1 = "994b250d81de32d563d64eeac1d56bd314a035e9"
 libc = "musl"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "19fd641a40bf7006338dabc30ba4075c85a70a415157252ca4735e452c91bb00"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-v9.1.0-i686-linux-musl.tar.gz"
+    sha256 = "375c3730186eb1eef8d5f3d2874d967cb72c876a8ea20405096e1b73dfaf4166"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-v9.4.0-i686-linux-musl.tar.gz"
 [[libstdcxx]]
 arch = "aarch64"
-git-tree-sha1 = "70cd26a2a074e31a2495e8a9b65aad122ab79415"
+git-tree-sha1 = "07559fcf39ee31d79156c3787d0e7008499395a7"
 libc = "musl"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "09f684e84dae142ac3f4f1f7067f4cf4c808d495625e9234a94c0936e72e580f"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-v9.1.0-aarch64-linux-musl.tar.gz"
+    sha256 = "011de4de7a46f81e5793c445e482633dcb3ad1d2f0410d7bc64939dc9ad4f479"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-v9.4.0-aarch64-linux-musl.tar.gz"
 [[libstdcxx]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8bb33dd7fd2587fb83afc5ae45aecff6dde83f24"
+git-tree-sha1 = "2ea2ff07c3bf7e54b1f9259d10a80981cff78ab1"
 libc = "musl"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "de506be794d77ac56188e5da97d31e9081e74cd350db603526f97e925a9cd52f"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-v9.1.0-armv6l-linux-musleabihf.tar.gz"
+    sha256 = "a5adb63f4fd4e79700af64ac1ef89b29ba070ad02a7eb070bf35677f04373014"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-v9.4.0-armv6l-linux-musleabihf.tar.gz"
 [[libstdcxx]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f296170038193250a814e4a4055b1d4ee9a2c569"
+git-tree-sha1 = "f363b932e305343171eaba2b10b92d2959d9e12c"
 libc = "musl"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "3f5122c0e893526f729f78d0259165270cc9eb71145681507609f19442d2f2a4"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-v9.1.0-armv7l-linux-musleabihf.tar.gz"
+    sha256 = "78c7234b0d4c73d237fe6d13f37d00f094c64b8874e172a558ba3cfbe53ce303"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-v9.4.0-armv7l-linux-musleabihf.tar.gz"
 [[libstdcxx]]
 arch = "x86_64"
-git-tree-sha1 = "6210a318218d85df632ceaa9ee1a9c233d04860e"
+git-tree-sha1 = "23219063d3e1f383598180609751b2afa7c82265"
 os = "windows"
 
     [[libstdcxx.download]]
-    sha256 = "fefdbfd95f333992b41cb6e0d45d05d3de249eb786f5835a59c5c0db77f706f4"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-v9.1.0-x86_64-w64-mingw32.tar.gz"
+    sha256 = "9a47259f0cdff5c082d490e6187226961736654deacd68feafe8e7df71b8241b"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-v9.4.0-x86_64-w64-mingw32.tar.gz"
 [[libstdcxx]]
 arch = "i686"
-git-tree-sha1 = "26ed1f7ebb29e7a60fd3f53dc9b9d42d9fb5bb81"
+git-tree-sha1 = "3ff6c80c6693ac555eef11e99bc7adade006c415"
 os = "windows"
 
     [[libstdcxx.download]]
-    sha256 = "b3c691265f06ce24407e9aa5cc801cde108b4537ba72ae9254a16d56430d01db"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-v9.1.0-i686-w64-mingw32.tar.gz"
+    sha256 = "d476b959126a34864b1c437f23da305b6be21b5b5920d5367e345508393187ec"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-v9.4.0-i686-w64-mingw32.tar.gz"
 
 [[libstdcxx-build_log]]
 arch = "x86_64"
-git-tree-sha1 = "452fcd4873742a111eca232eb513cc0454cc2771"
+git-tree-sha1 = "b263a61b215b16fde4e1f21be7c1b97721b45157"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "87851af0b3dfe260ff3d5d98215dc724c9d05abc7917de7eab349836d1f79567"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-build_log-v9.1.0-x86_64-linux-gnu.tar.gz"
+    sha256 = "e4f8ea55fc7cc2ef973fd68fe0bb1830ffeebffc94923e8e700c1be44c967dbc"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-build_log-v9.4.0-x86_64-linux-gnu.tar.gz"
 [[libstdcxx-build_log]]
 arch = "i686"
-git-tree-sha1 = "4a250fe30b4e46797ed1cb56ac41b8120ddaa8a4"
+git-tree-sha1 = "504965f25c0ed474965947f1dcb1559eeeb23d55"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "bf3ef16ead47bfa421b4370ca21222dcd1194322158f9206cccfb0d818a9b00f"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-build_log-v9.1.0-i686-linux-gnu.tar.gz"
+    sha256 = "6b4b57619477ceea68e88ce0fc16840c8631f2b659d882075959e324eddf2773"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-build_log-v9.4.0-i686-linux-gnu.tar.gz"
 [[libstdcxx-build_log]]
 arch = "aarch64"
-git-tree-sha1 = "4d0668254cbe04bc3a7ff585580cad611a8d5a7b"
+git-tree-sha1 = "12cf00ad5a36ac11b6bd46120373a8285baa6ec4"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "3088e5883cbef4932800e3849eaca159827d1d77fd90e1081db94be6da56db78"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-build_log-v9.1.0-aarch64-linux-gnu.tar.gz"
+    sha256 = "bea50105018fb9a83a8e7783f132303d16dd5c28dc6e2b916d9cafd5edd08c0c"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-build_log-v9.4.0-aarch64-linux-gnu.tar.gz"
 [[libstdcxx-build_log]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "6539ec0deae8052f09e03c9f3490f40c9b004760"
+git-tree-sha1 = "48b6bd960424934dabeaf1f4047e74c3f26815b0"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "6e94f87e61a641aaeafbf7265a7d59bcf2a037b5aedafab593e1267f4d83b66a"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-build_log-v9.1.0-armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "f85bc65c58f69afbb889afe36428aa487fbcb75a7a11cd3cbfd461442c3737f3"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-build_log-v9.4.0-armv6l-linux-gnueabihf.tar.gz"
 [[libstdcxx-build_log]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "48ab02beaf265a5a0746d388ce0ed8c3838b3b61"
+git-tree-sha1 = "c0b9371405b75d4741fcc6ed6fe53ffa8f358555"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "e2bff433ca6a4213353a3e8da6641e2c952edcaa8e2f9d9eecacdef34e4b4f9c"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-build_log-v9.1.0-armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "089f9a68751f243f20cb8e294373359983c9c0dc046c4ff0416f56f2ba0ebe98"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-build_log-v9.4.0-armv7l-linux-gnueabihf.tar.gz"
 [[libstdcxx-build_log]]
 arch = "powerpc64le"
-git-tree-sha1 = "50cafaf60a5ef88da94ee581aada993f606bf436"
+git-tree-sha1 = "81e7b20703288c8b5205997a9f57e6d6baed5972"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "ae40c8ab27a9d9be2f30c514b8fcb49ec6434a3e14a744f476769d13312192ff"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-build_log-v9.1.0-powerpc64le-linux-gnu.tar.gz"
+    sha256 = "fe687d492cb373b079edbdf1f34682b1ced2c9fd8b1fcc4e424668cc9a6edc69"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-build_log-v9.4.0-powerpc64le-linux-gnu.tar.gz"
 [[libstdcxx-build_log]]
 arch = "x86_64"
-git-tree-sha1 = "7fc91a4bfc1cf90bd7f457cff5ab7c84ce168b0a"
+git-tree-sha1 = "f9cbf1f453cb18a89a1d16028b61105dcc3ef9d6"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "8b54596c170a3b14223b5ba35ace338c1c2c5d947cf0228863e301afc1bbb493"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-build_log-v9.1.0-x86_64-linux-musl.tar.gz"
+    sha256 = "852cf729b06798f4b460a5bb88ab421f5d3fcb1768ea62e5c58dd97106c6099e"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-build_log-v9.4.0-x86_64-linux-musl.tar.gz"
 [[libstdcxx-build_log]]
 arch = "i686"
-git-tree-sha1 = "a3f8ab305f7f3750bd67accf9bd1868bac1f42ac"
+git-tree-sha1 = "2273e91177944b9a92fcf003a86b455a485c5cab"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "87e347b233016ad805ac1f7424f63eb6443e628dd1406f9d38018252ecc95d50"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-build_log-v9.1.0-i686-linux-musl.tar.gz"
+    sha256 = "bded446606e3e30a514a22e4978a34464562b73c22acd54ea4fb9842f9cd1c67"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-build_log-v9.4.0-i686-linux-musl.tar.gz"
 [[libstdcxx-build_log]]
 arch = "aarch64"
-git-tree-sha1 = "c19926d76852285d6723df7c15f3e8c7288ae428"
+git-tree-sha1 = "c83b6eb606aab5d7cd320443f5c781c08cfcb968"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "2c9a66a0d9b7f6e2a71f80412f7aca06474785a500b474393c5fbbf5a40a6d0e"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-build_log-v9.1.0-aarch64-linux-musl.tar.gz"
+    sha256 = "6bc5d011e124ee003103ddaa4cb1e24a555b26338214f0dd492aea4daf6a37a4"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-build_log-v9.4.0-aarch64-linux-musl.tar.gz"
 [[libstdcxx-build_log]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "56a1300de92cb559088b61133e6ede4e7c6da210"
+git-tree-sha1 = "abda826818d67e642fc991a159e579c74eff81e7"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "60363dce03534239f2b4abc00b8c7030056d5f7bda700c262d83fabe34e1936b"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-build_log-v9.1.0-armv6l-linux-musleabihf.tar.gz"
+    sha256 = "9b880184e90d9c9c629068bb1a68dc30bf1f42776367ef8a6ac0de5a3e3b2ca2"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-build_log-v9.4.0-armv6l-linux-musleabihf.tar.gz"
 [[libstdcxx-build_log]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3aca58e29d02139ada4502664d021cb48618767a"
+git-tree-sha1 = "184ff1d963481f9e097ff81bff5268779525309e"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "fa5667345678d1feb91683f1726dd7e6d24a1e9dae1dae7464f4c001b32ffb19"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-build_log-v9.1.0-armv7l-linux-musleabihf.tar.gz"
+    sha256 = "1bba7c1cdfa8027ec979ec54175fd700381ac16b3f2b0f2e121b26f50d42a50c"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-build_log-v9.4.0-armv7l-linux-musleabihf.tar.gz"
 [[libstdcxx-build_log]]
 arch = "x86_64"
-git-tree-sha1 = "e85245541c57aca4b85c3848f6e7d07b7d87d556"
+git-tree-sha1 = "56d5cf49b4f03447a6b4e10e02fedf823511b554"
 lazy = true
 os = "windows"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "418783c982ddfa23a08287b2fc914688e1d77ad276b04a8c8937fc9aacf1027f"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-build_log-v9.1.0-x86_64-w64-mingw32.tar.gz"
+    sha256 = "fcaf5be882717f6ad04a31d3be6006ac79593e3034e9f7430e1f1ca61f92927b"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-build_log-v9.4.0-x86_64-w64-mingw32.tar.gz"
 [[libstdcxx-build_log]]
 arch = "i686"
-git-tree-sha1 = "ff6896d1656156031fd157e7e2df0464d613e876"
+git-tree-sha1 = "910074ac649906c1cdac1fe8e80de171604364f4"
 lazy = true
 os = "windows"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "d223a0e10d53de663de935a8312fbc04407b58cb250504507e47a1f0ea462826"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-build_log-v9.1.0-i686-w64-mingw32.tar.gz"
+    sha256 = "90605d8cde8b2aad7e09aa1f2a0dc03c815603f6cfccd63cbafecf7bc36ec3b6"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-build_log-v9.4.0-i686-w64-mingw32.tar.gz"
 
 [[libstdcxx-extract_log]]
 arch = "x86_64"
-git-tree-sha1 = "3457f35c4e2a9a030e256400aead11c9c1b3df49"
+git-tree-sha1 = "69e7f59c0d12df32f29263dafb7846af73124c1b"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "b763fb3b63e91b06c27ec78b594b0480520fdf8548b4d96d6a8b9aa90b16e04b"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-extract_log-v9.1.0-x86_64-linux-gnu.tar.gz"
+    sha256 = "e047ad25b899ae4150fa56b3ffcba5683f7aab53f5e7daa49cfc5ee028e49bb1"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-extract_log-v9.4.0-x86_64-linux-gnu.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "i686"
-git-tree-sha1 = "9320136cd785848868e1bfdf61488d23f2779051"
+git-tree-sha1 = "55f912536099150545103760d43d6f637f443bd9"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "b06f611d74f83cb1e43daa5a12d26f9ead393a92b1aa1f0fb2a7e7f095c8c791"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-extract_log-v9.1.0-i686-linux-gnu.tar.gz"
+    sha256 = "bf308b7cd3a359f890bb6c5058b47e50b8747e5b9a3983e6f7f118aa4ecdbf00"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-extract_log-v9.4.0-i686-linux-gnu.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "aarch64"
-git-tree-sha1 = "a431e614f118591d4b01aec6d777049a03a8f877"
+git-tree-sha1 = "113bb5114e8304c5f1df5fbc26a29db979b61fcb"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "2aa29655dbe9bbc10b5bcdc94c53580d660d0aacff2d8e857d9b4dd257363ffb"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-extract_log-v9.1.0-aarch64-linux-gnu.tar.gz"
+    sha256 = "efef7920eebde2842ef37b3f1d364ec6a31578e49a6e60d37ddc7bb4f1f0d741"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-extract_log-v9.4.0-aarch64-linux-gnu.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "cb20a66b88e5471415b4abb51a0877ac935bfb6b"
+git-tree-sha1 = "dbce8a399ccdc87401aecef9002f879734ae33c2"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "3cbe21e47448b59af943941fd5701367002431ab8c738e8cac4e6ba1ba1dd4a3"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-extract_log-v9.1.0-armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "9fbc434f6c7aad50a151d18fa59f4b44dbf0fc16c7c7e8725a32d69d276742d2"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-extract_log-v9.4.0-armv6l-linux-gnueabihf.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "89b14a74d62fa6607efcaf109bf5211d9ef8af06"
+git-tree-sha1 = "c7884e61263eda3a67bed1e6ae96db559813a40f"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "340ca6463840037ba90f241350bc7c00b941503bdfc8d09bc885c1c90ebdcd98"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-extract_log-v9.1.0-armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "ca1f0c0e6fa401894a87799b85369bf427908b52e3cf3182ff55c42c482d2f51"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-extract_log-v9.4.0-armv7l-linux-gnueabihf.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "powerpc64le"
-git-tree-sha1 = "20bc94690e3ae70ff2e2d7601bd1951c72e51c37"
+git-tree-sha1 = "f5dd5db98af8120f9c91974bfc840ad191a006a9"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "c4e5eea309014b4d17fa17c738ba0896c74c1f3d1e511d335a3b0208f30e2e51"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-extract_log-v9.1.0-powerpc64le-linux-gnu.tar.gz"
+    sha256 = "fceeb8e546cf7246acec990898f14dd0fce6242cee763a7ce340851b99b18ae7"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-extract_log-v9.4.0-powerpc64le-linux-gnu.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "x86_64"
-git-tree-sha1 = "943543a49cb16c5fe8e51d6cfca03e0a83372c87"
+git-tree-sha1 = "5c9a6dfac443ae5c48d7145bb4260ab8d55e7a0f"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "c6ab79758168b3ec06d01c8cbe9db29ebe5e50be82ca5cec40ca79ee1860ecdc"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-extract_log-v9.1.0-x86_64-linux-musl.tar.gz"
+    sha256 = "81c743ccc79f2d6d04efccbaa9f881f8e6913d57e307922e9dd00e4e616e4fd6"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-extract_log-v9.4.0-x86_64-linux-musl.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "i686"
-git-tree-sha1 = "ba1735d1a60088cff76c39d2eadf8c0b560c4ec3"
+git-tree-sha1 = "f0dcbee35b5b32f4556f55637a61f5b0af6a46a7"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "316302ae5406e95f2cf3e751d4236308430720e7134255790fd6bf714abb3d7d"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-extract_log-v9.1.0-i686-linux-musl.tar.gz"
+    sha256 = "b7aa782aab116b7619033096246c10c80618aeb643b4d6882dabdd263fef4c99"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-extract_log-v9.4.0-i686-linux-musl.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "aarch64"
-git-tree-sha1 = "9c9bb070dd96d83023c1d1579dc70bb376cb08bf"
+git-tree-sha1 = "97c485babad5cf66c3cdd72e294316b212a75532"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "1eb63ec5d6b7f722daf3bf629a8e5a763f7f23681fdfc9f6ca06e5f816f5d8c2"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-extract_log-v9.1.0-aarch64-linux-musl.tar.gz"
+    sha256 = "f98e3fdaf1bac189d772c029fd9c775336508f45f52a9c0c913bc6fda2286298"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-extract_log-v9.4.0-aarch64-linux-musl.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "a348c5e2c1c073c5a53dce60265de04b9e6a5d09"
+git-tree-sha1 = "5ae8474322e2bcf7a52aab441c24dd53a28543ce"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "25379a9aa43404071d5985fb16daf343e3c7c09ca198eba5aa54e5b596c33ced"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-extract_log-v9.1.0-armv6l-linux-musleabihf.tar.gz"
+    sha256 = "8f281d7341052fb99c8e4c2e61f4fe6eee753d9c01be65dd6319e653c06e3240"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-extract_log-v9.4.0-armv6l-linux-musleabihf.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f55584f7ad3726bacd0c6fca8f0fa932ea0713c2"
+git-tree-sha1 = "ccc1daa5ce41ac69dd61bb99b01f27fedd63d04c"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "892d9ede5eb1cbda02f5d2d60efa57b18ef17ed2d7b25a33d5b9ef37e89dcab8"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-extract_log-v9.1.0-armv7l-linux-musleabihf.tar.gz"
+    sha256 = "ed2f623a18cb5330e31f88733372ecc783dd6a2f10fd72d5e6b1b8d90ff25dcf"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-extract_log-v9.4.0-armv7l-linux-musleabihf.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "x86_64"
-git-tree-sha1 = "98eff60a55ede1b3fde7550c8366bab459971af2"
+git-tree-sha1 = "604d31380e277129f7f2218bcb43cea2079641f4"
 lazy = true
 os = "windows"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "007f076d526ae873ae4cc13a003e00195af1fe3666f7bc762fb766a86147aa0e"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-extract_log-v9.1.0-x86_64-w64-mingw32.tar.gz"
+    sha256 = "e47426f9c76256f7119cf060dfcbd4edb3e20f031056d99b6e5e0ffa0cde6b1e"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-extract_log-v9.4.0-x86_64-w64-mingw32.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "i686"
-git-tree-sha1 = "9a7d0f0dde2ee2b47ca7f33d8416366c9ed78ea5"
+git-tree-sha1 = "158a1c5f883ea999f9ed52be43ad3229afb62f16"
 lazy = true
 os = "windows"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "4dc728cac8ce2c276d6de74fe58ea5e451e6888f7383082256e57f77c543ab9b"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.1.0-GCC/libstdcxx-extract_log-v9.1.0-i686-w64-mingw32.tar.gz"
+    sha256 = "caf6f1885e9bea15227be8fc78cc7e51ff2d48c72da995a37c288e1ecb42c417"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v9.4.0-GCC/libstdcxx-extract_log-v9.4.0-i686-w64-mingw32.tar.gz"
