@@ -1,6 +1,6 @@
 name = "libstdcxx_jll"
 uuid = "3ba1ab17-c18f-5d2d-9d5a-db37f286de95"
-version = "9.4.0"
+version = "14.2.0"
 
 [deps]
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
