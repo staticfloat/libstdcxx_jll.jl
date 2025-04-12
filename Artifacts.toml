@@ -1,54 +1,28 @@
 [[libstdcxx]]
-arch = "aarch64"
-git-tree-sha1 = "73fb408b7ba897be6a75b75127537ec87a2363d8"
-os = "macos"
-
-    [[libstdcxx.download]]
-    sha256 = "d13a5130fa89dcda3c12a7d2f78c40dc8348c74f4adee05fb0ffeaba7d3a6443"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0/libstdcxx-v14.2.0-aarch64-apple-darwin.tar.gz"
-[[libstdcxx]]
 arch = "x86_64"
-git-tree-sha1 = "822b20ef19d1f9b72178a805e5ab18758201d6d7"
+git-tree-sha1 = "91e21ed43e85ed5d60ac921a4243e3056d1a54d9"
 os = "macos"
 
     [[libstdcxx.download]]
-    sha256 = "658a303140df76f720c698e7294cdfe3917b1c9720dfc33964ce63fbe0b6c794"
+    sha256 = "e84108d5ba27aaf88cb1612afb47409cc0285d33670582bc419add522a633e28"
     url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0/libstdcxx-v14.2.0-x86_64-apple-darwin.tar.gz"
 
 [[libstdcxx-build_log]]
-arch = "aarch64"
-git-tree-sha1 = "08184663c064d7c03ed2a894bb52692e81a0bb52"
-lazy = true
-os = "macos"
-
-    [[libstdcxx-build_log.download]]
-    sha256 = "adf5543dbf16f8c1b8e7fc913c10ed87b7189a3c2b41913b3b45e04a4cf22cf8"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0/libstdcxx-build_log-v14.2.0-aarch64-apple-darwin.tar.gz"
-[[libstdcxx-build_log]]
 arch = "x86_64"
-git-tree-sha1 = "7533848b2086adc3cbdcd5de9bf4a76da55f7337"
+git-tree-sha1 = "675200a94ce1a0b7559ba616daaf45b7156cd801"
 lazy = true
 os = "macos"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "3d527feac3f4fbca8bf1b7831049a0c17971c654f2cbe70082e33cf3db99c94b"
+    sha256 = "f00682c624181b210da7215be5039f66d0df866eb52f6bae654dde4af54c6acd"
     url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0/libstdcxx-build_log-v14.2.0-x86_64-apple-darwin.tar.gz"
 
 [[libstdcxx-extract_log]]
-arch = "aarch64"
-git-tree-sha1 = "fe2ff73cf4e246d7b455c01f84ef8c825081e35b"
-lazy = true
-os = "macos"
-
-    [[libstdcxx-extract_log.download]]
-    sha256 = "5d0dfec4a98927c2c4b172cfcd25bb8033a8a9db37038b6d3342cd212428196f"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0/libstdcxx-extract_log-v14.2.0-aarch64-apple-darwin.tar.gz"
-[[libstdcxx-extract_log]]
 arch = "x86_64"
-git-tree-sha1 = "dad70bd45d1dd792c021727d750de93b1af79dda"
+git-tree-sha1 = "f567dc78da74e786ef9602fe70e7fb282c19e8ac"
 lazy = true
 os = "macos"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "46bfee3a0ff090117e3491458f177d56efd0c6912e28fdf3cf4f61f675d72846"
+    sha256 = "1d871adb5ed46f09bc80ed008ee66fd0c5dd107bb444ed9d101647b53416105a"
     url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0/libstdcxx-extract_log-v14.2.0-x86_64-apple-darwin.tar.gz"
