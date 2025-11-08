@@ -20,7 +20,6 @@ The binaries for `libstdcxx` have been built from upstream sources version v14.2
  - `Platform("x86_64", "linux"; libc = "glibc")`
  - `Platform("i686", "linux"; libc = "glibc")`
  - `Platform("aarch64", "linux"; libc = "glibc")`
- - `Platform("armv6l", "linux"; call_abi = "eabihf", libc = "glibc")`
  - `Platform("armv7l", "linux"; call_abi = "eabihf", libc = "glibc")`
  - `Platform("powerpc64le", "linux"; libc = "glibc")`
  - `Platform("x86_64", "linux"; libc = "musl")`
@@ -30,8 +29,10 @@ The binaries for `libstdcxx` have been built from upstream sources version v14.2
  - `Platform("armv7l", "linux"; call_abi = "eabihf", libc = "musl")`
  - `Platform("x86_64", "windows"; )`
  - `Platform("i686", "windows"; )`
- - `Platform("x86_64", "macos"; )`
- - `Platform("aarch64", "macos"; )`
+ - `Platform("x86_64", "macos"; os_version = "20.0.0")`
+ - `Platform("aarch64", "macos"; os_version = "20.0.0")`
+ - `Platform("x86_64", "freebsd"; os_version = "14.1.0")`
+ - `Platform("aarch64", "freebsd"; os_version = "14.1.0")`
 # Dependencies
 The following JLL packages are required by `libstdcxx`:
 
