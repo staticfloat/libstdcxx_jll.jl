@@ -1,12 +1,12 @@
 [[libstdcxx]]
 arch = "aarch64"
-git-tree-sha1 = "5b2b1c9e1d624c3dfd6d26eeeba94f05ba0d6f96"
+git-tree-sha1 = "2980f9d38e2159a926f4596f850b8bfb8f56f2bd"
 os = "macos"
 os_version = "20.0.0"
 
     [[libstdcxx.download]]
-    sha256 = "1a1abb4d83e6ff0595751ec4001df6562e1446addcd6b082273ee9dea03282f3"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-aarch64-apple-darwin20.tar.gz"
+    sha256 = "a63fc6f10167261d6f9fc073aad4d017f47856d0b3e1ab170fc5d1d86f51e8a8"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-aarch64-apple-darwin20.tar.gz"
 [[libstdcxx]]
 arch = "aarch64"
 git-tree-sha1 = "49d2913044eb1c75f7f4cb1c5e99053cbd89ea54"
@@ -14,17 +14,17 @@ libc = "glibc"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "348406c2f10e3fe80120996dcef25c6c13754084a2e80d81357c9aed4594720b"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-aarch64-linux-gnu.tar.gz"
+    sha256 = "a65ebc7f59f27bb35f30c0b92c15649dc14ff96299b2114d19caf961dd655ff0"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-aarch64-linux-gnu.tar.gz"
 [[libstdcxx]]
 arch = "aarch64"
-git-tree-sha1 = "b4378965d3ad2c95a90f9844d9b082290a859e4d"
+git-tree-sha1 = "7c8fe316b21f20c6e13c8638314cc0b167951b8a"
 libc = "musl"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "dd8518ec84f6fe81075e30e51a1bf15ba9e3af8fcbe6ac3d1fae1f0254b62092"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-aarch64-linux-musl.tar.gz"
+    sha256 = "1c7c3ac1a160b8baa87777c920bef0f45be66ca2e55311eec8198aa0ea1fa86c"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-aarch64-linux-musl.tar.gz"
 [[libstdcxx]]
 arch = "aarch64"
 git-tree-sha1 = "0da8098724151837740e7ef56bb0c7c3351ac308"
@@ -32,8 +32,8 @@ os = "freebsd"
 os_version = "14.1.0"
 
     [[libstdcxx.download]]
-    sha256 = "29cdc206cfd6ca093053bbd5cdcce4c7736154f6de34547f75563fa3c9cf0221"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-aarch64-unknown-freebsd14.1.tar.gz"
+    sha256 = "6dc95959ed21b01699b20a519597bd89f75b0c993be05a940e9fd5dc2b543bf9"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-aarch64-unknown-freebsd14.1.tar.gz"
 [[libstdcxx]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -42,18 +42,18 @@ libc = "glibc"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "0b504ed6f51e44020b1806ada9e803343076dae9196eb161f2120ee609f5831a"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "5cd9cb6ba1785d523a401746d6f1d97daaca518084ebc187f17db6c04a10d244"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-armv6l-linux-gnueabihf.tar.gz"
 [[libstdcxx]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "ac07bb21b4dbfa15a3525eb2ac21a08ea8f7d364"
+git-tree-sha1 = "eb69fd7bab4d17e96f28e32c9ed3343dd5ef4dbf"
 libc = "musl"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "a3152d14810f774ccc15f2def5a8810231987edaae88b30c00597dc563086c54"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-armv6l-linux-musleabihf.tar.gz"
+    sha256 = "954aaad36d1a4b0089a3a30c7e62577c5d0b508a2ae86a0a14ae627589776ae8"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-armv6l-linux-musleabihf.tar.gz"
 [[libstdcxx]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -62,18 +62,18 @@ libc = "glibc"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "583ae1fa23a6cc2d97fd937e0fce7fdcd3e5dcdd5d4e803d63ad1442336e7d63"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "9d4b96b761272e96ab6031daa296fd194d5f9bdb5899578b7f08e3059c42e171"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-armv7l-linux-gnueabihf.tar.gz"
 [[libstdcxx]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "b197a33010dc6881d406fe5fb2ec4eeeaa805e51"
+git-tree-sha1 = "f0bf79f466c1ee798a0495d2833007775435d9a5"
 libc = "musl"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "7aaf5037ed1f0025db428ce3abe383d15b8eec043b04faf1e9b3db54eea55c04"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-armv7l-linux-musleabihf.tar.gz"
+    sha256 = "4eb66f3fad1a7d8fbfd2567ff3c4a7cadc2d5401a9a4a869687d25e5e39b9a43"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-armv7l-linux-musleabihf.tar.gz"
 [[libstdcxx]]
 arch = "i686"
 git-tree-sha1 = "e96d45d775569d705e99e85a8a7a8b07d8d5fb68"
@@ -81,25 +81,25 @@ libc = "glibc"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "644dc9c877d20469b592a31834d7215bbec5890f123fef074efe53f7190d7251"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-i686-linux-gnu.tar.gz"
+    sha256 = "5c0e3b65bd53fb27d90f406cc7f51ae0a821c471ff943ad1de997c8319b4e19f"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-i686-linux-gnu.tar.gz"
 [[libstdcxx]]
 arch = "i686"
-git-tree-sha1 = "18107e3f41b72f58c39f9bae24a23ff665a78938"
+git-tree-sha1 = "62af5250435c0a7e811058bcb68bc59a1c648362"
 libc = "musl"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "dab01eef320c0d34458225a93073bb9fb8bdab8fd9b4c0b0278b10f34ffee097"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-i686-linux-musl.tar.gz"
+    sha256 = "39904193d6eeb5e74c4dd3b6033e5c5e5f9203f688c5e645b32973db771539b9"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-i686-linux-musl.tar.gz"
 [[libstdcxx]]
 arch = "i686"
-git-tree-sha1 = "da3b91629345a8aa44cd143169a05b7468de4af3"
+git-tree-sha1 = "23de81aa7baba49c06ab725d846fc5378ee25a48"
 os = "windows"
 
     [[libstdcxx.download]]
-    sha256 = "05f3c6616db9d2a148cafe0c905263e745b6ff70aa6a6a376b5b91785f8a1eb9"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-i686-w64-mingw32.tar.gz"
+    sha256 = "cefe8447c2ec36a6e260d27b828c5608d46b819f227c26aace3294085a782345"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-i686-w64-mingw32.tar.gz"
 [[libstdcxx]]
 arch = "powerpc64le"
 git-tree-sha1 = "1e77cfff65cbc128fc39601f18f48c8baa6b97fe"
@@ -107,17 +107,26 @@ libc = "glibc"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "decc2c8f48ebad5a754f47408b631d24479a3fc17b2c745e1c28c927aec059d1"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-powerpc64le-linux-gnu.tar.gz"
+    sha256 = "6a23a7a659f163fde6c09da03a0cfd716767f50e500a667b0b9d13c1c8a08c98"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-powerpc64le-linux-gnu.tar.gz"
+[[libstdcxx]]
+arch = "riscv64"
+git-tree-sha1 = "c2062abec8115c9319e43e7104c22f3754d8ba32"
+libc = "glibc"
+os = "linux"
+
+    [[libstdcxx.download]]
+    sha256 = "cc136478f8e53de2b174d7475b3876dedb3e365db81766d092e4132377e318f8"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-riscv64-linux-gnu.tar.gz"
 [[libstdcxx]]
 arch = "x86_64"
-git-tree-sha1 = "f58ff2b406c4f4df685ec1769888f4bbdff9c40c"
+git-tree-sha1 = "ae4e79a43df364bc66a4a059ad75d0739657ab13"
 os = "macos"
 os_version = "20.0.0"
 
     [[libstdcxx.download]]
-    sha256 = "7c0afd59891d2626b5dc1115ec76f7835ca7c9f16ef797579af22fd16dd262c3"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-x86_64-apple-darwin20.tar.gz"
+    sha256 = "908a6f503caa4c74f64e4a569c657349472f54910a216247525978161c576969"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-x86_64-apple-darwin20.tar.gz"
 [[libstdcxx]]
 arch = "x86_64"
 git-tree-sha1 = "440c3ea82d092e59ec30ee3621854b849cacc043"
@@ -125,17 +134,17 @@ libc = "glibc"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "ead3b29ae44e0bb5cabf7d86c2ba949fa4d584ab03edf77bfaad38dcbf6169ad"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-x86_64-linux-gnu.tar.gz"
+    sha256 = "6d9ceed16559a21fa989d57daac81aef9ad495dc3af1cd738e10224298ff205e"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-x86_64-linux-gnu.tar.gz"
 [[libstdcxx]]
 arch = "x86_64"
-git-tree-sha1 = "47f9074bb18db86b867e8fdda9299088d280c6e5"
+git-tree-sha1 = "a25de9930c8f40b5e09ce9d799817bf036a430b7"
 libc = "musl"
 os = "linux"
 
     [[libstdcxx.download]]
-    sha256 = "b5853eafd0e33e2f9ae3b23f494ab5f4c0d13ceb57fbe5a3095fb51ab642305d"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-x86_64-linux-musl.tar.gz"
+    sha256 = "bbf62a46b202254f05e156c038ff2620a8d28176cead85ceac75c2ca8e905f5d"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-x86_64-linux-musl.tar.gz"
 [[libstdcxx]]
 arch = "x86_64"
 git-tree-sha1 = "a2485f9c0268d40f722310170814a626fe99c251"
@@ -143,359 +152,379 @@ os = "freebsd"
 os_version = "14.1.0"
 
     [[libstdcxx.download]]
-    sha256 = "240da034867c7b172f354141c890e9d8aa6cbf16e9399498c002589f022d8440"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-x86_64-unknown-freebsd14.1.tar.gz"
+    sha256 = "77a627aef65ebea2abc98406507b93e5288ac7e3d94eb5ce0275b5a2f9e45a5d"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-x86_64-unknown-freebsd14.1.tar.gz"
 [[libstdcxx]]
 arch = "x86_64"
-git-tree-sha1 = "669e0508b2ab82b4b7a36aa664170ea16178f44c"
+git-tree-sha1 = "209d241424cd2a24e1687d878434cc18eae39a88"
 os = "windows"
 
     [[libstdcxx.download]]
-    sha256 = "13eb17d1b18a8f13af2688f8d68de1dcc46ee90f59b8a94cbdb904da2c410b82"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-v14.2.0-x86_64-w64-mingw32.tar.gz"
+    sha256 = "6ad0d2ab9d26e44929235f91f0387eb4ead6ea051fda773680444643a2e5e71a"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-libstdcxx-v14.2.0-x86_64-w64-mingw32.tar.gz"
 
 [[libstdcxx-build_log]]
 arch = "aarch64"
-git-tree-sha1 = "cc413fa16426b5436714303da8dc6f7abdf658a6"
+git-tree-sha1 = "38f815ed8bfd25f5fe128641fc38a720b9cb20cd"
 lazy = true
 os = "macos"
 os_version = "20.0.0"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "450f5a94c4db6ba360b96cc681871790bbd87e377236246eb45624bd0f2f68f5"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-aarch64-apple-darwin20.tar.gz"
+    sha256 = "1d8b369144ebf73eb914f92b7751630f4d09d683838439216732dd12cf7cb14d"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-aarch64-apple-darwin20.tar.gz"
 [[libstdcxx-build_log]]
 arch = "aarch64"
-git-tree-sha1 = "5a47559a72ca874076a5273a774dfee93a5b2cd3"
+git-tree-sha1 = "a185172ac4f4dc95d30653c7e2a2b4e0d063429c"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "dbd61de8dc99e1f643657d3a7d248bb3abbfffd477c19995547fe80fab3b76e1"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-aarch64-linux-gnu.tar.gz"
+    sha256 = "2887a5775b8cde96bd078a824e43b7c5abc78b0a1c8d64994f664522192e5812"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-aarch64-linux-gnu.tar.gz"
 [[libstdcxx-build_log]]
 arch = "aarch64"
-git-tree-sha1 = "3c60efaa5ddaf81d8197e8ac38a63e09efd2211b"
+git-tree-sha1 = "50fc56fe4834b0fa8fbd41b66b86912ba5790464"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "64a161318a123af6a1014a4b0f220b15e6e4bfbec258c7f4a5026d090c428ebe"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-aarch64-linux-musl.tar.gz"
+    sha256 = "84401c011091a6a475a47b14f504b7b87e448e7d6b54a8474a5c581ccbf7cf14"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-aarch64-linux-musl.tar.gz"
 [[libstdcxx-build_log]]
 arch = "aarch64"
-git-tree-sha1 = "2a6c83d7659bc1a9268d47bd7b5a6587926cc7a9"
+git-tree-sha1 = "e98cd34e6d5834ab702615e7f84dab445120b518"
 lazy = true
 os = "freebsd"
 os_version = "14.1.0"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "0a3de365887165203f53f12a63f5e412143dfbcf84f3e0ba30d6545fba14356c"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-aarch64-unknown-freebsd14.1.tar.gz"
+    sha256 = "febd4e4c7aa142d3cb1cdd8050cc3c093d9f8c7a7292b870c11b10a20c6dfec4"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-aarch64-unknown-freebsd14.1.tar.gz"
 [[libstdcxx-build_log]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "89c443d46dc9a9bda37afc9549f66fb25d2baa65"
+git-tree-sha1 = "cd8dffaa445a4a356419751c743a1a210e8d48c2"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "8d67c0566e13be60147910ba46cce16cb2a760a798b6c463a14622ca3f7b87ab"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "9a37dd81f5b8037af271a2463a53a6f5a799599951fa2d54a937057a7dba5551"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-armv6l-linux-gnueabihf.tar.gz"
 [[libstdcxx-build_log]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "22b2e94efcecef9599128503a581335f54fa7af7"
+git-tree-sha1 = "40fe3a278260d668b1b1530ab7c1f92bcc2f26fb"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "b8e02e64dc00f7fb944f14ec2a8435fa750770b3f80d03e4e0f627489a08c409"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-armv6l-linux-musleabihf.tar.gz"
+    sha256 = "1d49bffcd65141134a7090baa90092f92a8242e87aa57cda39f874f47c73ad69"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-armv6l-linux-musleabihf.tar.gz"
 [[libstdcxx-build_log]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "82544fe0763888d6fe43c9e48e93c45078d39c5e"
+git-tree-sha1 = "468f388ed55d0b6b24c45c224e794353cbc1941b"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "b6b65da5f2ea92756c793b5913b144c59ba6b1c0eae2fd37cef667820ad63ff0"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "9156f607021c575d7b59efb3c97f1e4de9582144101b9715043a57183c1d62a6"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-armv7l-linux-gnueabihf.tar.gz"
 [[libstdcxx-build_log]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a3a1b50de3942da0fefb4ba3b0d21f813bb299f5"
+git-tree-sha1 = "2d88778568b12ac86dd2ed5c77d5f5d2debd4aa7"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "9a50c4c54b5eb32291693ec23b34e22d399a4606e39a35b374635b5b4d3d1284"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-armv7l-linux-musleabihf.tar.gz"
+    sha256 = "229aa89172d83e3de4635b5d0c2b81bc3a495f75953184217d6e879a1dc40be8"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-armv7l-linux-musleabihf.tar.gz"
 [[libstdcxx-build_log]]
 arch = "i686"
-git-tree-sha1 = "aed6ebe1914df7d1df0efa8c55286aa9658bf7a4"
+git-tree-sha1 = "33ec29efb6e479294f834b4ed459205f9fcd956f"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "7519bb897992afd5fcfa0f0bc1415e11ef6dcb0fc2804f03a6bbffd80319c056"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-i686-linux-gnu.tar.gz"
+    sha256 = "ff8715c2a8d9310472d40c619c456f54bdb14c09ab5a5b76da2f8c17e1a626a4"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-i686-linux-gnu.tar.gz"
 [[libstdcxx-build_log]]
 arch = "i686"
-git-tree-sha1 = "ce3760c7b047480224677f8472a3774eee3cbc48"
+git-tree-sha1 = "c5d37dde791febf8253dd486e24bb604a33ec7f6"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "e51055e0048338a0a74bcd26c57d3bba80f13143222bc97c4ff055f81e0a455a"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-i686-linux-musl.tar.gz"
+    sha256 = "a315a53f0f92e2e0b886c6d2497aab7429f183989dbbbdaef17a6061f344920b"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-i686-linux-musl.tar.gz"
 [[libstdcxx-build_log]]
 arch = "i686"
-git-tree-sha1 = "9bd7f98cdc48f48364fe8f6072d49e81e2dc8cf7"
+git-tree-sha1 = "f5782d285f51cbe7b93a0112ac0c23ddb606715a"
 lazy = true
 os = "windows"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "59614bc22a46a985ee6f881d86f8644f884007976e3444ea62dfbfe292a94939"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-i686-w64-mingw32.tar.gz"
+    sha256 = "5998eb73a609ba5caf31663b94be964677cbdb878ea56fbffd2cc099c634998c"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-i686-w64-mingw32.tar.gz"
 [[libstdcxx-build_log]]
 arch = "powerpc64le"
-git-tree-sha1 = "8c2e46fce68c1e6a8c7b31f3cc408fcc3017346c"
+git-tree-sha1 = "82f042a7c69574c6d7f7e0df85e5e5fa101cad04"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "bb0b5fee35522586b6a38939115fdf0a01d97ff55c5a51ea94fe7b70e4b08412"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-powerpc64le-linux-gnu.tar.gz"
+    sha256 = "c88bda401d4f105a74f1e307df299766b3e9afa7d67ea4ede76d8178b377c0fa"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-powerpc64le-linux-gnu.tar.gz"
+[[libstdcxx-build_log]]
+arch = "riscv64"
+git-tree-sha1 = "4240109a16c25e602df9ef7c2dc6e062983ff51f"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[libstdcxx-build_log.download]]
+    sha256 = "13b16f5500d24034a8ae2c5734329dde5deaf799512836f3f22908814a9234a9"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-riscv64-linux-gnu.tar.gz"
 [[libstdcxx-build_log]]
 arch = "x86_64"
-git-tree-sha1 = "26c4f31ab96bf43e28edfa65d41493cabff249ca"
+git-tree-sha1 = "82529cc5fffdedf0945bc05fc69d09941f62712d"
 lazy = true
 os = "macos"
 os_version = "20.0.0"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "65f6fda6c006377bd2b41b10284bace21de08f4e53b0a84b9c22c4ecf780c10e"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-x86_64-apple-darwin20.tar.gz"
+    sha256 = "03997b44666dd1c1abb184df2b80d40c73d289508d61f45037bc04a03cb745e1"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-x86_64-apple-darwin20.tar.gz"
 [[libstdcxx-build_log]]
 arch = "x86_64"
-git-tree-sha1 = "9abf057701b6f78c74b753c8a201b292a3b1166b"
+git-tree-sha1 = "558892f21fa4dc98b3d1c3fc91e02d63a8293025"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "b5c8a20de44553c6b67e4ca0a524fc892c404134226eb81c0b116b8a01172d2d"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-x86_64-linux-gnu.tar.gz"
+    sha256 = "a2ac3078f3bf1f449e4b2cc2dc387dcff5de473038f42419902117cad51125a7"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-x86_64-linux-gnu.tar.gz"
 [[libstdcxx-build_log]]
 arch = "x86_64"
-git-tree-sha1 = "2f67ab1e7d37f053fe9396ba81a0d4d5eefe88c6"
+git-tree-sha1 = "22e25810dbcec73260b5cf8181e87c61950c8f94"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "f340d9a02f1749dc4bcfb62e5a15f3d432babbe79c03d26bf725bf1f0215f72d"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-x86_64-linux-musl.tar.gz"
+    sha256 = "3edfb63f44e494635ab3ad9b9b0f4e116557be5976715445b23b1f58db2b55fa"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-x86_64-linux-musl.tar.gz"
 [[libstdcxx-build_log]]
 arch = "x86_64"
-git-tree-sha1 = "601fbba1322b634d5911b8dc3abb0cce8c651dd8"
+git-tree-sha1 = "217254dda01fbb2edce971c1a99489f797e385a3"
 lazy = true
 os = "freebsd"
 os_version = "14.1.0"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "9cf9cda1f75b6c9728937f3c8c521614cbb90ef6e5e8b852d8dc52f1600994bf"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-x86_64-unknown-freebsd14.1.tar.gz"
+    sha256 = "58d0b80e1d2321ecf5a232f5428b2421ccfd78ec3f8f2a61b939ac62206b85e8"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-x86_64-unknown-freebsd14.1.tar.gz"
 [[libstdcxx-build_log]]
 arch = "x86_64"
-git-tree-sha1 = "6bed452bf8d55121517db4bb3efc4b11130e3846"
+git-tree-sha1 = "1a103f55a9f1908d5d374dd326f7061d44243ee8"
 lazy = true
 os = "windows"
 
     [[libstdcxx-build_log.download]]
-    sha256 = "af31c52a08b223c1f95a85c8f571dc0ed9b93a3f70b22b165137216b4dfb7e70"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-x86_64-w64-mingw32.tar.gz"
+    sha256 = "17f1a22d29938dd0939331a9866d07d75b49baefda72f7ca9175e1eca52bed13"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-build_log-v14.2.0-x86_64-w64-mingw32.tar.gz"
 
 [[libstdcxx-extract_log]]
 arch = "aarch64"
-git-tree-sha1 = "4abd6b6394b4e4eabb66f2de2354cc666c4dd82e"
+git-tree-sha1 = "3dba6226ac8bc967441a948914df1e2347439fc8"
 lazy = true
 os = "macos"
 os_version = "20.0.0"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "30160af4b63ee5b8350a94608b56bcd0205c3611063dda951b9a1e1818d3f489"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-aarch64-apple-darwin20.tar.gz"
+    sha256 = "387e93386bb1513d76d7ccc9b975ae75404d378b7f122813ea0201829a6b683d"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-aarch64-apple-darwin20.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "aarch64"
-git-tree-sha1 = "239d9a6c279536056a12918e50f34bdebd34e783"
+git-tree-sha1 = "b519124e450c2b2c155a4847d2ccb40815abd3e1"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "d60700ad7eb5eabe2bca2913bcb772f7faa719be8ab11e58b0b658f9569d9f80"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-aarch64-linux-gnu.tar.gz"
+    sha256 = "f8ba26279aa36d0ebf2239b5578fb6e8867bbfb013f32ff4ceb583ab21acf432"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-aarch64-linux-gnu.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "aarch64"
-git-tree-sha1 = "c3d84ad34b8acf0f4139a40ff81a788b42459e96"
+git-tree-sha1 = "19330723734698d31f84e69c9cf45d6bb5fa721b"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "3c013c80b54e9243258cc48365a1591685d6abce5b8ef6d4166afffc662d72c9"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-aarch64-linux-musl.tar.gz"
+    sha256 = "53f8744ccc8ba75730dd415f308929c07e1ccf863115912f31aea72725f84110"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-aarch64-linux-musl.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "aarch64"
-git-tree-sha1 = "41c5655d4776e7d680e60d191c60a5b8df9633d1"
+git-tree-sha1 = "90290007192b6c49e4e2e921b1ffb7810cdc7386"
 lazy = true
 os = "freebsd"
 os_version = "14.1.0"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "f01a59851f7eff2124fe4ee9d64266d34ffd82e0dac16a29d095634fbe658c18"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-aarch64-unknown-freebsd14.1.tar.gz"
+    sha256 = "bb1139cfc629c06ffc57e12c2000bd7c31533b6be919b3980e53c3a49352c944"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-aarch64-unknown-freebsd14.1.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "a666b0f50a98645722215c66a7e8e6a258fdd21b"
+git-tree-sha1 = "7e9617dc2300ce1e87178112dfd6c551e0207a56"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "c368387baeb9370c71108eafb18833212f0c22187c34cb854b0eda199ac45575"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "aa09832c8a7540d31da39c0fc914b381c7d847d988b53fa697f89a4554a77745"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-armv6l-linux-gnueabihf.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8ea4694b5cada346fe5f93f1570273817edfda80"
+git-tree-sha1 = "9717e76fa032eeb044d8a8248a4ab1a32bc54df3"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "41b31c7ef8ebadd0b0c010e25fd5e7677f709c0029009c341494138688031027"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-armv6l-linux-musleabihf.tar.gz"
+    sha256 = "c9034dfb73d6ec02bc4fe3174f741036023a8da869f56367a324275fecbdaf6e"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-armv6l-linux-musleabihf.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "26c43a6c94f8e36a4f592a28010b2ad1435c7e25"
+git-tree-sha1 = "250fd8e5351fc3cfac66fc7244bb6f7bb80f805c"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "92b6353a83f2287f39ec89f2d39cc2905a7d7a081d6498757d0f33defb9cfc08"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "db56ae7fbdc679d49e78654bb7f5125169b015b5732e50fe1807c2cc7b0dbd75"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-armv7l-linux-gnueabihf.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a5ebd6e9888459460857b08e3a6890673c7c0345"
+git-tree-sha1 = "0b7af5add73b27d225e1c2bbf04635e641e75230"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "7b7512fce35a984014f96510ffa5205be1e49f7e28b1dc72125e70b101839900"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-armv7l-linux-musleabihf.tar.gz"
+    sha256 = "a23cb90877be686b00c56cc05421148e1fec6acd6f646ecf8682e1291c7f29f9"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-armv7l-linux-musleabihf.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "i686"
-git-tree-sha1 = "bc414fe15ac148775602a1b30b2e6aaf9ea2b2a5"
+git-tree-sha1 = "eb2d093cb559c0e20c3c55dfe8874afddc4981cd"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "c780b76bcf092a97b610783d8b90d6519adbfa596175533d1968e23eb4faf7a4"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-i686-linux-gnu.tar.gz"
+    sha256 = "73f092dc640aed0d0e53149645442698e9a3a5d7450f0e90f8469954b014159d"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-i686-linux-gnu.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "i686"
-git-tree-sha1 = "5326b350e10ae436224f5f3bc6cb323a54216e81"
+git-tree-sha1 = "7d8cae293ecb25c49e578d1186dd6736c5559307"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "ba83b604f8b885b118436f93874732741f33191be8d3ebece46db282f158ffbf"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-i686-linux-musl.tar.gz"
+    sha256 = "a72bb6abe2f74428c090168cfdd5ea535d7a0ff1d48f7d400664a57d7f598017"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-i686-linux-musl.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "i686"
-git-tree-sha1 = "d59f3c68879363aefc1172eaac5d141dca6f1deb"
+git-tree-sha1 = "dbe4365d2247adf2bffeb2d2ef1830d496bbf406"
 lazy = true
 os = "windows"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "1bba4566d7dcc84d355c37139a5ed16b31c9534cc154e6e5b07af3769cb230db"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-i686-w64-mingw32.tar.gz"
+    sha256 = "bf3e54caf705e1ee939ff9250c22bd726bee0c8c3e4d516641abe5f9261aa67f"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-i686-w64-mingw32.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "powerpc64le"
-git-tree-sha1 = "b88b0753b7bbb9c6237cb4668df0af7f27de66b9"
+git-tree-sha1 = "6e04301f5d28acafb0bf51118d426fe6f45c54cf"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "13901e781535954685d08ea24ff45b215b6fc6382c8e6c645706086962a07a98"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-powerpc64le-linux-gnu.tar.gz"
+    sha256 = "8e1688096aee9c568e4621bb1d111907d5c6b88551a14101fa410b722427bef9"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-powerpc64le-linux-gnu.tar.gz"
+[[libstdcxx-extract_log]]
+arch = "riscv64"
+git-tree-sha1 = "7c87299c39e364f1f662710b1cd5ec6ea69ffc75"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[libstdcxx-extract_log.download]]
+    sha256 = "9422265c4d6f297c9554e37aa964e06d8501a3ee2af1919b1d069903dc644e8b"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-riscv64-linux-gnu.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "x86_64"
-git-tree-sha1 = "2c094234a3bf7c06075962773fd309fc9f79d938"
+git-tree-sha1 = "d1f41d30ff642c79302487d572b5a57e7e32015d"
 lazy = true
 os = "macos"
 os_version = "20.0.0"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "e12a4dce3be0de2a602cc0a344333a8c1732d053e5be705c69a432c1b69ee7b1"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-x86_64-apple-darwin20.tar.gz"
+    sha256 = "2ae660a2282393691877f271cb3b184a55a80fda713c4d20003c768e469ee344"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-x86_64-apple-darwin20.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "x86_64"
-git-tree-sha1 = "4cf5bd36c5b7f972e7ab952e7c029741d25bfe4c"
+git-tree-sha1 = "92a7a28d8a699f158224d12776a0d37db0598f67"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "9ccd3e34fc8c79649c069f1eac85ac591a0146777fcd04fd1ae062931625d580"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-x86_64-linux-gnu.tar.gz"
+    sha256 = "7845e620ea30a70eeb69a74c21c14e9ff05f3d5416fafffe0888f1c363c49b6b"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-x86_64-linux-gnu.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "x86_64"
-git-tree-sha1 = "53781bf8d13b303ed2aba0d51a0bc3a5829425bf"
+git-tree-sha1 = "09be64aaa201d5fc4d6eed284599e2d8c9f3881f"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "f628def51b9e2861b04906c034fb0f2a00aaaba29a8662b78485b732f7cbb15c"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-x86_64-linux-musl.tar.gz"
+    sha256 = "9e5eed529167aed577feb43290acfcbfa18dac2f27586476809b3fb57904d43f"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-x86_64-linux-musl.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "x86_64"
-git-tree-sha1 = "f8643d1fc9876f1d252104e26fc725e592abbe23"
+git-tree-sha1 = "6b6aa45c87b97f8f6f4c19a08d69836158169b1e"
 lazy = true
 os = "freebsd"
 os_version = "14.1.0"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "57c28b31700581da144328a1a98516eacc46e575bd8a310054a4469f17aaf9ce"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-x86_64-unknown-freebsd14.1.tar.gz"
+    sha256 = "815c6abe4df910eec6e2b9b9b803491b094a6695e9466c1a6c549c568df34dc1"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-x86_64-unknown-freebsd14.1.tar.gz"
 [[libstdcxx-extract_log]]
 arch = "x86_64"
-git-tree-sha1 = "80d9cb15555c82bd564bcb28dad0ced5ea11fd9a"
+git-tree-sha1 = "befae32ef7435dd26e6f692c45b27aca7c612d01"
 lazy = true
 os = "windows"
 
     [[libstdcxx-extract_log.download]]
-    sha256 = "e7ce18f42d72b45234cafb6e33efcea632aecd024e1ac5c2feddfdedb8f69346"
-    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-x86_64-w64-mingw32.tar.gz"
+    sha256 = "b510a9af54e6c997048735d8134cd12f0ebac1a864921d2a4af9f0c7d0e75070"
+    url = "https://github.com/staticfloat/libstdcxx_jll.jl/releases/download/libstdcxx-v14.2.0-GCCBootstrap-x86_64-linux-gnu/libstdcxx-extract_log-v14.2.0-x86_64-w64-mingw32.tar.gz"

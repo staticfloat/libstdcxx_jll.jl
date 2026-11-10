@@ -12,7 +12,7 @@ The binaries for `libstdcxx` have been built from upstream sources version v14.2
  - [https://mirrors.kernel.org/gnu/mpc/mpc-1.2.1.tar.gz](https://mirrors.kernel.org/gnu/mpc/mpc-1.2.1.tar.gz) (treehash: sha1:0368784a00a0b6be2f3a6443059158097d3b6b7d)
  - [https://gcc.gnu.org/pub/gcc/infrastructure/isl-0.24.tar.bz2](https://gcc.gnu.org/pub/gcc/infrastructure/isl-0.24.tar.bz2) (treehash: sha1:a1684fcd774f877bac6f8694f712180e19eca5b0)
  - [https://mirrors.kernel.org/gnu/gmp/gmp-6.2.1.tar.xz](https://mirrors.kernel.org/gnu/gmp/gmp-6.2.1.tar.xz) (treehash: sha1:b22c1e4e2413d9a0ec828a92c0b6efd29ecdafa5)
- - [/home/sabae/src/BB2/bootstrap/GCC/patches-v14.2.0](/home/sabae/src/BB2/bootstrap/GCC/patches-v14.2.0) (treehash: sha1:199ad424df5f68ca1028c1e29dda470be8f81781)
+ - [/home/sabae/src/experiments/BB2-compiler-toolchains-transfer/worktrees/BinaryBuilder2.jl-riscv/bootstrap/GCC/patches-v14.2.0](/home/sabae/src/experiments/BB2-compiler-toolchains-transfer/worktrees/BinaryBuilder2.jl-riscv/bootstrap/GCC/patches-v14.2.0) (treehash: sha1:199ad424df5f68ca1028c1e29dda470be8f81781)
 # Platforms
 
 `libstdcxx` is available for the following platforms:
@@ -23,6 +23,7 @@ The binaries for `libstdcxx` have been built from upstream sources version v14.2
  - `Platform("armv6l", "linux"; call_abi = "eabihf", libc = "glibc")`
  - `Platform("armv7l", "linux"; call_abi = "eabihf", libc = "glibc")`
  - `Platform("powerpc64le", "linux"; libc = "glibc")`
+ - `Platform("riscv64", "linux"; libc = "glibc")`
  - `Platform("x86_64", "linux"; libc = "musl")`
  - `Platform("i686", "linux"; libc = "musl")`
  - `Platform("aarch64", "linux"; libc = "musl")`
